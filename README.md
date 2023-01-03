@@ -1,4 +1,4 @@
-# kinkoi_stuff
+# kinkoi-stuff
 Just some scripts I wrote to make modding KinKoi (and other Saga Planets x Entergram games like Karumaruka Circle) on Vita a bit easier.  
 Very WIP, but does what it should
 
