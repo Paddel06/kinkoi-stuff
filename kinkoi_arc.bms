@@ -1,10 +1,5 @@
-###################################################
-# Kinkoi PS Vita .arc QuickBMS script by Paddel06 #
-###################################################
-# File names are padded to 64B with 0xfe.
-# Padding between files seems to be either to 8B (script), or to 64B (images, movies, etc...) of 0x00.
-# This script will most certainly not work for reimporting (yet).
-###################################################
+# Kinkoi PS Vita .arc QuickBMS script by Paddel06
+
 codepage 932
 endian little
 
